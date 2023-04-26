@@ -22,7 +22,7 @@ In ChampSim Folder run the following commands to get the output after IPCP prefe
   * `./build_champsim.sh bimodal no ipcp ipcp ipcp lru 1`
   * `./run_champsim.sh bimodal-no-ipcp-ipcp-ipcp-lru-1core 30 30 [TRACE NAME]`
   * `cat results_30M/[TRACE NAME]-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt`
-- Now we can see results on terminal which contains 
+- Now we can see results on terminal which contains parameters like IPC, mpkc, cache hits, cache misses and many more.
 
 
 ### Presentation
