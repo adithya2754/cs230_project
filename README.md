@@ -2,7 +2,9 @@
 
 ### STEPS TO DOWNLOAD CHAMPSIM AND FILES
 
-- Download ChampSim repository from [here](https://github.com/ChampSim/ChampSim).
+- Download champsim folder from above tar file.
+- Command
+   * `tar -xzvf champsim.tar.gz`
 - Download the following traces from these links [SPEC](https://dpc3.compas.cs.stonybrook.edu/champsim-traces/speccpu/), [Graph Analytics](https://utexas.app.box.com/s/2k54kp8zvrqdfaa8cdhfquvcxwh7yn85/folder/132804598561) and [SAT Solver](https://www.dropbox.com/sh/xs2t9y4cuqlgrlp/AACpzGOj6BcSB-BUolGaBjbta?dl=0).
   * `602.gcc_s-2226B.champsimtrace.xz`
   * `605.mcf_s-665B.champsimtrace.xz`
