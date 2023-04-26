@@ -2,7 +2,7 @@
 
 ### STEPS TO DOWNLOAD CHAMPSIM AND FILES
 
-- Download champsim folder from above tar file.
+- Download champsim folder from above tar file from below tar command.
 - Command
    * `tar -xzvf champsim.tar.gz`
 - Download the following traces from these links [SPEC](https://dpc3.compas.cs.stonybrook.edu/champsim-traces/speccpu/), [Graph Analytics](https://utexas.app.box.com/s/2k54kp8zvrqdfaa8cdhfquvcxwh7yn85/folder/132804598561) and [SAT Solver](https://www.dropbox.com/sh/xs2t9y4cuqlgrlp/AACpzGOj6BcSB-BUolGaBjbta?dl=0).
@@ -28,7 +28,7 @@ In ChampSim Folder run the following commands to get the output after IPCP prefe
 
 
 ### Presentation
- Please refer to this [presentation](https://docs.google.com/presentation/d/1cNY_NGp6AePsVlPmW1K7c6n6JXECOSeP/edit?usp=sharing&ouid=117917141028873045506&rtpof=true&sd=true) and [video](https://youtu.be/SwNjS9jtsUM) for better understanding.
+ Please refer to this [presentation](https://docs.google.com/presentation/d/1cNY_NGp6AePsVlPmW1K7c6n6JXECOSeP/edit?usp=sharing&ouid=117917141028873045506&rtpof=true&sd=true) and [video](https://drive.google.com/file/d/1i7Fr1MZLCe6TvJpwsjNZun-y89eHalay/view?usp=sharing) for better understanding.
 
 ### References
 - [IPCP paper](https://www.cse.iitk.ac.in/users/biswap/IPCP_ISCA20.pdf)
