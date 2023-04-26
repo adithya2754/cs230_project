@@ -15,7 +15,7 @@
   * `654.roms_s-523B.champsimtrace.xz.`
   * `bfs-10.trace.gz(from Graph Analytics).`
   * `cadical-high-60K-1227B.champsimtrace.xz(from SAT Solver).`
-- Place these files into `ChampSim/dpc3_traces` folder 
+- Place these files into `ChampSim/traces` folder 
 - Download the source code of Spec Sprinters
 - Place `ipcp.l1d_pref`, `ipcp.l2c_pref`, `ipcp.llc_pref` files inside `ChampSim/prefetcher` folder
 
