@@ -26,7 +26,7 @@ In ChampSim Folder run the following commands to get the output after IPCP prefe
 
 
 ### Presentation
- Please refer to this [presentation](https://docs.google.com/presentation/d/1-CdZl602SHgl6vaIhnxknX5CPS917v1rjopyMUz4sKc/edit?usp=sharing) and [video](https://youtu.be/SwNjS9jtsUM) for better understanding.
+ Please refer to this [presentation](https://docs.google.com/presentation/d/1cNY_NGp6AePsVlPmW1K7c6n6JXECOSeP/edit?usp=sharing&ouid=117917141028873045506&rtpof=true&sd=true) and [video](https://youtu.be/SwNjS9jtsUM) for better understanding.
 
 ### References
 - [IPCP paper](https://www.cse.iitk.ac.in/users/biswap/IPCP_ISCA20.pdf)
